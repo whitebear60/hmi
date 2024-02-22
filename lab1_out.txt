@@ -1,0 +1,10 @@
+What is your name?: Mykhailo
+What is your email?: mykhailo.yaremenko@outlook.com
+How old are you?: 18
+Which university are you studying at?: Ukrainian State University of Chemical Technology
+How many students are in your group?: 14
+Do you live in the dormitory?: false
+Have you had any experience working with Python?: true
+Have you had any experience working with SQL?: true
+What is your favourite subject?: Organisation of the Databases and Knowledge
+Are you enjoying yourself at the university?: true

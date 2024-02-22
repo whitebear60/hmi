@@ -1,0 +1,13 @@
+{
+  "name": "hmi",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lab1": "node lab1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

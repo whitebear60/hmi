@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is your name?",
+    "type": "input"
+  },
+  {
+    "question": "What is your email?",
+    "type": "input"
+  },
+  {
+    "question": "How old are you?",
+    "type": "number"
+  },
+  {
+    "question": "Which university are you studying at?",
+    "type": "input"
+  },
+  {
+    "question": "How many students are in your group?",
+    "type": "number"
+  },
+  {
+    "question": "Do you live in the dormitory?",
+    "type": "yes_no"
+  },
+  {
+    "question": "Have you had any experience working with Python?",
+    "type": "yes_no"
+  },
+  {
+    "question": "Have you had any experience working with SQL?",
+    "type": "yes_no"
+  },
+  {
+    "question": "What is your favourite subject?",
+    "type": "input"
+  },
+  {
+    "question": "Are you enjoying yourself at the university?",
+    "type": "yes_no"
+  }
+]
