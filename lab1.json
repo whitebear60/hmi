@@ -36,6 +36,10 @@
     "type": "input"
   },
   {
+    "question": "Have you participated in any off-class activity?",
+    "type": "yes_no"
+  },
+  {
     "question": "Are you enjoying yourself at the university?",
     "type": "yes_no"
   }
