@@ -1,0 +1,11 @@
+H+M+P+K+M+H+K*7
+H+M+P+K+M+H+K*20
+H+M+P+K+M+H+K*2
+H+M+P+K+M+H+K*5
+H+M+P+K+M+H+K*2
+H+M+P+M+P+K+M+P+K+M+P+K+H+M+K*10
+H+M+P+K+M+P+K+M+P+K
+
+13H+18M+12P+57K
+
+13*
