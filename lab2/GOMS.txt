@@ -1,11 +1,26 @@
-H+M+P+K+M+H+K*7
-H+M+P+K+M+H+K*20
-H+M+P+K+M+H+K*2
-H+M+P+K+M+H+K*5
-H+M+P+K+M+H+K*2
-H+M+P+M+P+K+M+P+K+M+P+K+H+M+K*10
-H+M+P+K+M+P+K+M+P+K
+H (hands on the mouse) + M (thinking) + P (point at the first text field) + K (click on it) + M (thinking) + H (hands on the keyboard) + K*7 (type the name)
+H (hands on the mouse) + M (thinking) + P (point at the email field) + K (click on it with the mouse) + M (thinking) + H (hands on the keyboard) + K*20 (type the email)
+H+M+P+K+M+H+K*2 (same for age)
+H+M+P+K+M+H+K*5 (same for university)
+H+M+P+K+M+H+K*2 (same for the number of students in the group)
+H (hands on the keyboard) + M (thinking) + P (point the mouse at the dormitory checkbox) + M (thinking) + P (point the mouse at the Python checkbox since the first one remains unchecked) +K (click on the checkbox) +M (thinking)+P (point the mouse on the SQL checkbox)+K (check the checkbox) +M (thinking) +P (point the mouse at the fav subject text box) +K (click on it) +H (hands on the keyboard) +M (thinking) +K*10 (type the fav subject name)
+H (hands on the mouse) + M (thinking) + P (point at the off-class activity checkbox) + K (click on it) + M (thinking) + P (point the mouse at the overall enjoyment checkbox) +K (click on it) +M (thinking) +P (point the mouse at the submit button) +K (click on it)
 
 13H+18M+12P+57K
 
-13*
+13*0.4+18*1.35+12*1.1+57*0.2=54.1 sec
+
+H (hands on the keyboard) + M (thinking) + K*7 (name) + K (enter)
+M (thinking) +K*20 (email) + K (enter)
+M (thinking) + K*2 (age) + K (enter)
+M (thinking) + K*5 (university) + K (enter)
+M (thinking) + K*2 (number of students) + K (enter)
+M (thinking) + K (Y/n dormitory) + K (enter)
+M (thinking) + K (Y/n python) + K (enter)
+M (thinking) + K (Y/n sql) + K (enter)
+M (thinking) + K*10 (fav subject) + K (enter)
+M (thinking) + K (Y/n off-class activity) + K (enter)
+M (thinking) + K (Y/n enjoyment) + K (enter)
+
+1H+11M+62K=
+0.4+11*1.35+62*0.2=27.65 sec
