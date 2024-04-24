@@ -1,6 +1,6 @@
 const questions = [
   {
-    "question": "What is your name?",
+    "question": "Яке ваше ім'я?",
     "type": "input"
   },
   {
