@@ -6,9 +6,13 @@ H+M+P+K+M+H+K*2 (same for the number of students in the group)
 H (hands on the keyboard) + M (thinking) + P (point the mouse at the dormitory checkbox) + M (thinking) + P (point the mouse at the Python checkbox since the first one remains unchecked) +K (click on the checkbox) +M (thinking)+P (point the mouse on the SQL checkbox)+K (check the checkbox) +M (thinking) +P (point the mouse at the fav subject text box) +K (click on it) +H (hands on the keyboard) +M (thinking) +K*10 (type the fav subject name)
 H (hands on the mouse) + M (thinking) + P (point at the off-class activity checkbox) + K (click on it) + M (thinking) + P (point the mouse at the overall enjoyment checkbox) +K (click on it) +M (thinking) +P (point the mouse at the submit button) +K (click on it)
 
-13H+18M+12P+57K
+===
+13H+18M+12P+57K=
 
-13*0.4+18*1.35+12*1.1+57*0.2=54.1 sec
+13*0.4+18*1.35+12*1.1+57*0.2=
+
+54.1 sec
+===
 
 H (hands on the keyboard) + M (thinking) + K*7 (name) + K (enter)
 M (thinking) +K*20 (email) + K (enter)
