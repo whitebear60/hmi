@@ -1,0 +1,1 @@
+see https://github.com/whitebear60/web_technologies/tree/timetable
